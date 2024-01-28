@@ -4,6 +4,25 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+Note: pakibasa maiigi
+Makikita ang aking code sa app/UserInterface
+
+```bash
+install dipendencies : You can install everything at once dont know, just follow this:
+
+npm install --save @fullcalendar/core @fullcalendar/react @fullcalendar/daygrid
+# and 
+npm install @fullcalendar/interaction @fullcalendar/timegrid @headlessui/react @heroicons/react
+# and
+npm install --save  @fullcalendar/multimonth
+# and
+npm install bootstrap
+# and
+npm i --save-dev @types/bootstrap
+
+
+```
+
 ```bash
 npm run dev
 # or
